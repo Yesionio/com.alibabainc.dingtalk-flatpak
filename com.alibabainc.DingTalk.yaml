@@ -24,7 +24,7 @@ finish-args:
   # - --talk-name=org.gnome.Shell.Screenshot
   # - --talk-name=org.kde.kwin.Screenshot
   # Files
-  - --filesystem=xdg-download
+  - --filesystem=xdg-home
   - --filesystem=xdg-run/pipewire-0
   - --filesystem=/tmp
   # IME
